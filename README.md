@@ -23,6 +23,11 @@ Videe-Group-Meeting is a simple video chat application for multi-users based on 
 - Mute Video/Audio
 - Screen Sharing
 
+#link for the repository
+https://github.com/Aman01111/Class-meet.git
+
+
+
 ## Installation
 ### Clone
 - Clone this repo to your local machine using `https://github.com/Hyunse/video-group-meeting.git`
